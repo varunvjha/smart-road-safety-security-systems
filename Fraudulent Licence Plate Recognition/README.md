@@ -5,4 +5,4 @@ Detecting licence plates using OpenALPR and OpenCV Libraries to locate the licen
 The moving vehicle is tracked & segmented from the background to narrow down the search region of ALPR. The code is written in python and easy to use in windows & Linux but tested with Windows only.
 
 
-##### This repository is still a work in progress right now
+##### It is still a work in progress right now
