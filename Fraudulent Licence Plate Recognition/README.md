@@ -1,4 +1,4 @@
-# licence-plate-recognition
+# Fraudulent Licence Plate Recognition
 
 Detecting licence plates using OpenALPR and OpenCV Libraries to locate the license plate in each frame and to detect the moving vehicle license plate number, and checking with our database whether the Licence Plate gets a match in our database or not. If it is present in the Database, the plate is not fraudulent, otherwise the licence plate is fraudulent and it creates an alert.
 
